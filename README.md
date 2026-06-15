@@ -1,9 +1,7 @@
 # Math-for-Financial-Engineering
-Independent study portfolio bridging my background in Agricultural Economics to the advanced mathematics and python programming required for a MFE program.
 
-# Math Self-Study Journey
-
-Welcome to my mathematics learning journal.
+## About Me
+I hold a background in Agricultural Economics and am preparing for a future Master's in Financial Engineering. This repository documents my self-study journey in mathematics, programming, statistics, and quantitative finance.
 
 ## Goal
 Build a strong foundation in algebra, calculus, linear algebra, statistics, and finance mathematics in preparation for a Master's in Financial Engineering.
@@ -19,12 +17,8 @@ Build a strong foundation in algebra, calculus, linear algebra, statistics, and 
 - [ ] Vectors and Matrices
 - [ ] Series
 - [ ] Conic Sections
-- [ ] Probability and Conbinatorics
+- [ ] Probability and Combinatorics
 
-Resource:
-- Khan Academy: Get Ready for Precalculus
-
-##### what i Learned
 ## What I Learned
 
 ### Complex Numbers
@@ -46,3 +40,9 @@ Resource:
 
 ### Trigonometry
 - Basic trigonometric concepts and identities
+
+Resource:
+- Khan Academy: Get Ready for Precalculus
+
+## Progress
+Month 1 Progress: 25% Complete
