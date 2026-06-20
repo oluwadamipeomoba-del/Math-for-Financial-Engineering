@@ -8,7 +8,7 @@ Topics Completed:
 - Trigonometry
 
 Hours Studied:
-- 10 hours
+- 7 hours per day
 
 Next Topic:
 - Vectors and Matrices
